@@ -8,3 +8,5 @@ let scores : (string|number)[] = [];
 
 scores = ["Programming", 5, "Software design", 4]; 
 
+
+console.log(scores); 
